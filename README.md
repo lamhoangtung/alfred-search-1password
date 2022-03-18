@@ -3,7 +3,7 @@ Search 1Password item and open in 1Password.
 
 ## USAGE
 
-- `pw <1Password Item>` to search for an 1Password item. Hit `Enter` to open item in 1Password
+- `1p <1Password Item>` to search for an 1Password item. Hit `Enter` to open item in 1Password
 - The link icon is displayed when 1Password item contains a URL. Hit `cmd` to open 1st URL item in Browser
 
 ## SETUP

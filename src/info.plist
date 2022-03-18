@@ -102,7 +102,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>pw</string>
+				<string>1p</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -299,7 +299,7 @@ fi</string>
 
 USAGE
 
-- `pw` &lt;1Password Item&gt; to search for an 1Password item. Press `Enter`to open item in 1Password
+- `1p` &lt;1Password Item&gt; to search for an 1Password item. Press `Enter`to open item in 1Password
 - The link icon is displayed when 1Password item contains a URL. Press `cmd` to open 1st URL item
 
 
